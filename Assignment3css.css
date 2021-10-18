@@ -1,0 +1,25 @@
+h1 {
+  color: #000000;
+  background-color: #FF0000;
+}
+
+a {
+ color: #ff0000;
+ text-decoration: none;
+}
+
+a:hover {
+  color: #ffff00;
+ text-decoration: underline;
+}
+
+a:visited {
+  color: #008000;
+}
+
+#divexample{
+  color: #0000ff;
+}
+.spanstyle {
+  color: #FF0000;
+}
