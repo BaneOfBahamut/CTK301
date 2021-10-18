@@ -1,0 +1,48 @@
+h1, h2, h3, h4, h5 {
+  color: #FFA500;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+a {
+ color: #ff0000;
+ text-decoration: none;
+}
+
+a:hover {
+  color: #ffff00;
+ text-decoration: underline;
+}
+
+a:visited {
+  color: #008000;
+}
+
+#divexample{
+  color: #0000ff;
+}
+.spanstyle {
+  color: #FF0000;
+}
+
+.customtext{
+  font-family: sans-serif;
+}
+
+.textjustify{
+  text-align: justify;
+}
+
+.imbox {
+border: 10px solid #000000;
+padding: 5px 5px 5px 5px;
+margin: 10px 10px 10px 10px;
+background-color: #ffffff;
+}
+body {
+background-color: #ffffff;
+background-image: url(ISU-4.png);
+background-repeat: no-repeat;
+background-position: bottom right;
+}
