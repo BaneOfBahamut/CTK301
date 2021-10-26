@@ -1,0 +1,78 @@
+.textcenter {
+  text-align: center;
+}
+
+.customtext1 {
+  font-family: Helvetica;
+  color: #197AD3;
+  font-weight: bold;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+h1 {
+  font-family: Impact;
+  color: #197AD3;
+  font-weight: bold;
+  font-size: 150px;
+  text-align: center;
+  margin-top: 115px;
+}
+body {
+background-color: #ffffff;
+background-image: url(Soul.png);
+background-repeat: no-repeat;
+background-position: top center;
+margin-right: 255px;
+margin-left: 255px;
+}
+
+.textright{
+  text-align: right;
+}
+
+.customtext2 {
+  font-family: Helvetica;
+  color: #FFFFFF;
+  font-size: 15px;
+}
+.bottomtext {
+  margin-top: 495px;
+}
+.customtext3 {
+  font-family: Helvetica;
+  color: #197AD3;
+  font-weight: bold;
+  font-size: 15px;
+}
+c {
+  font-size: 9px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+b {
+  color: #FFA500;
+}
+
+a {
+  font-family: Helvetica;
+  color: #197AD3;
+  font-weight: bold;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #197AD3;
+ text-decoration: none;
+}
+
+a:visited {
+  color: #FFA500;
+}
